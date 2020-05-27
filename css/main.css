@@ -1,0 +1,95 @@
+
+
+body {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+#siteContainer {
+  margin: 0 auto;
+  width: 920px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+.hero {
+  height: 340px;
+  width: 920px;
+  position: relative; /*set to relative to anything that uses absolute inside will positioned to the top left corner of this element*/
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+  .heroIndex
+  {
+  background: url(../images/beer_dispenser_edited3.jpg) no-repeat bottom;
+  }
+
+
+
+
+.head {
+  text-align: center;
+       font-size: 30px;
+       padding: 20px;
+       color: white;
+       line-height: 40px;
+}
+
+#bannerHead::after {
+        content: "EVERYTHING BEER";
+        display: flex;
+        transform: rotateX(180deg);
+        margin-left: 301px;
+        color: #c5ad7a;
+      }
+
+#contentHeader
+{
+  height: 100px;
+  margin-top: 20px;
+
+}
+
+.rectangle1
+{
+  height: 50px;
+  width: 150px;
+  background-color: #555;
+  float: left;
+  }
+
+
+
+  .rectangle2
+  {
+    height: 50px;
+    width: 150px;
+    background-color: #555;
+    float: right;
+
+    }
+
+
+#contentHeader h2
+{
+  text-align:  center;
+  line-height: 50px;
+  font-size: 21px;
+
+}
+
+
+
+
+.yellowText
+{
+  color: #c5ad7a
+}
