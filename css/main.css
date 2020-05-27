@@ -102,12 +102,15 @@ body {
 
 }
 
-
-
-
 .yellowText
 {
   color: #c5ad7a
+}
+
+.yellowBig
+{
+  color: #c5ad7a;
+  font-size: 24px;
 }
 
 #firstText {
@@ -115,4 +118,26 @@ body {
   margin-right: 10px;
   text-align: left;
   line-height: 20px
+}
+
+
+/* text area 2 */
+
+#content2 {
+  height:267px;
+  margin-top: 30px;
+  display: inline-flex;
+}
+
+
+#image1 {
+  float:left;
+}
+
+#text2 {
+  text-align: left;
+  margin-left: 20px;
+  line-height: 20px;
+  margin-top: 10px;
+padding-right: 10px;
 }
