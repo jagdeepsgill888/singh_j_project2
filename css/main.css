@@ -124,7 +124,7 @@ body {
 /* text area 2 */
 
 #content2 {
-  height:267px;
+  height:277px;
   margin-top: 30px;
   display: inline-flex;
 }
@@ -140,4 +140,36 @@ body {
   line-height: 20px;
   margin-top: 10px;
 padding-right: 10px;
+}
+
+
+#content3 {
+  height: 280px;
+  background-color: #f5c765;
+  display: inline-flex;
+
+}
+
+#image2 {
+  float: right;
+  margin: 30px 37px 0px 0px;
+}
+
+
+#text3  {
+  float: left;
+  margin-top: 35px;
+padding: 0px 10px 0px 10px;
+}
+
+#text3 h2 {
+  font-size: 20px;
+  line-height: 25px;
+  text-align: left;
+}
+
+#text3 p {
+  font-size: 12px;
+  line-height: 18px;
+  text-align: left;
 }
