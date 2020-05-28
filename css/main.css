@@ -172,6 +172,7 @@ padding: 0px 10px 0px 10px;
   font-size: 12px;
   line-height: 18px;
   text-align: left;
+  color: #686868;
 }
 
 
@@ -185,12 +186,13 @@ padding: 0px 10px 0px 10px;
 }
 
 #image3 {
-  float: right;
+  float: left;
 }
 
 #text4 {
-  float: left;
+  float: right;
   margin-top: 14px;
+  margin-left: 19px;
 }
 
 #text4 h2 {
@@ -202,5 +204,5 @@ padding: 0px 10px 0px 10px;
 #text4 p {
   line-height: 25px;
   margin-top: 40px;
-  padding-right: 15px;
+  padding-right: 10px;
 }
