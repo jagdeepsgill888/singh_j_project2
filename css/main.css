@@ -21,6 +21,9 @@ body {
 }
 
 
+.hidden {
+  display: none;
+}
 
 
 #siteContainer {
