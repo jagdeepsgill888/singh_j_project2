@@ -173,3 +173,34 @@ padding: 0px 10px 0px 10px;
   line-height: 18px;
   text-align: left;
 }
+
+
+/* content 4 */
+
+#content4 {
+  height: 283px;
+  margin-top: 20px;
+  display: inline-flex;
+
+}
+
+#image3 {
+  float: right;
+}
+
+#text4 {
+  float: left;
+  margin-top: 14px;
+}
+
+#text4 h2 {
+  margin-left: 100px;
+  padding-left: 70px;
+  font-size: 18px;
+}
+
+#text4 p {
+  line-height: 25px;
+  margin-top: 40px;
+  padding-right: 15px;
+}
